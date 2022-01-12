@@ -1,0 +1,16 @@
+{"Inventory List": [
+    {
+        "sellingPrice": 20,
+        "costPrice": 10,
+        "inventoryAvailable": 200,
+        "grossMargin": 10,
+        "productName": "Rackets"
+    },
+    {
+        "sellingPrice": 200,
+        "costPrice": 100,
+        "inventoryAvailable": 120,
+        "grossMargin": 100,
+        "productName": "Cricket Bats"
+    }
+]}

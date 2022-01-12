@@ -1,0 +1,23 @@
+{"Inventory List": [
+    {
+        "sellingPrice": 60,
+        "costPrice": 50,
+        "inventoryAvailable": 200,
+        "grossMargin": 10,
+        "productName": "Laptop"
+    },
+    {
+        "sellingPrice": 89,
+        "costPrice": 49,
+        "inventoryAvailable": 180,
+        "grossMargin": 40,
+        "productName": "Bottle"
+    },
+    {
+        "sellingPrice": 70,
+        "costPrice": 50,
+        "inventoryAvailable": 150,
+        "grossMargin": 20,
+        "productName": "Computer"
+    }
+]}
